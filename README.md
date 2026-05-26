@@ -186,14 +186,14 @@ class Program {
     
 </div>
   
-  <br>
-
 <div align="center">
-  <img src="https://c.tenor.com/lxCfTp7_1ScAAAAd/tenor.gif" alt="Hong Lu from Limbus Company" />
+  <img src="https://media.tenor.com/lxCfTp7_1ScAAAAd/tenor.gif" alt="Hong Lu from Limbus Company" />
 </div>
  
   <p align="center">
   <img src="https://64.media.tumblr.com/cd1c305b9fc6f428e6f62d24d6e2714f/705b76c11ed800bd-e5/s1280x1920/278f25103176dc944c7454eb2f441062cafc0d62.pnj" alt="starfish divider"/>
+
+  <br>
 
 </div>
 
