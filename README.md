@@ -87,6 +87,11 @@ class Program {
   </a>
   <br><br>
 
+  <a href="https://github.com/machadojuliana/Projeto-IOT-Conexao-WiFi-Mqtt-Led1-Led2">
+    <img src="https://img.shields.io/badge/_IoT_WiFi_&_MQTT_LED_Control_for_Education_of_Color_for_Visually_Impaired_Students-_ESP32-%230D1B2A?style=for-the-badge&logo=espressif&logoColor=%23E0FFFF" height="40" alt="IoT Project">
+  </a>
+  <br><br>
+
   <a href="https://github.com/caleidoscopiodotempo/Bibliotec---Book-Reviews">
     <img src="https://img.shields.io/badge/_Bibliotec_-_Goodreads_Style_Book_Reviews-%230D1B2A?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23E0FFFF" height="40" alt="Goodreads Project">
   </a>
