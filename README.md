@@ -32,7 +32,7 @@ Hi there! I'm *Kalei!*
 
 A 20-year-old developer from Brazil 🇧🇷, currently studying at SENAI. I go by any pronouns!   
 
-I’m currently studying Systems Development on SENAI, focusing on full-stack web applications. My go-to stack is C# (.NET / ASP.NET Core) and SQL Server for the backend, paired with JavaScript to bring frontends to life.
+I’m learning Systems Development on SENAI, focusing on full-stack web applications. My go-to stack is C# (.NET / ASP.NET Core) and SQL Server for the backend, paired with JavaScript to bring frontends to life.
 
 I love blending code with storytelling to create beautiful, interactive experiences. Right now, I'm focused on building RESTful APIs, mastering architectures like MVC and DDD, and working with Agile (Scrum/Kanban) methodologies!
 
