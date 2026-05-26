@@ -108,7 +108,7 @@ class Program {
 <div id="techstack">
 </div>
 
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Front+End" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Front+End" alt="Typing SVG" /></a></div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -126,7 +126,7 @@ class Program {
 
 #
 
-<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Back+End" alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Back+End" alt="Typing SVG" /></a></div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
@@ -175,10 +175,12 @@ class Program {
 
 <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=My+Songs" alt="Typing SVG" /></a></div>
 
-<div align="center">
-    <a href="https://open.spotify.com/user/31flgxbue67cklcnvfc5h73nbohm" target="_blank">
-    <img src="https://img.shields.io/badge/_MY_SOUNDTRACK_-_LISTEN_ON_SPOTIFY-%230D1B2A?style=for-the-badge&logo=spotify&logoColor=%23E0FFFF" height="42" alt="Spotify Profile Mapping" />
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31flgxbue67cklcnvfc5h73nbohm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=8ef5e9&bar_color_cover=false">
   </a>
+</p>
+    
 </div>
   
   <br>
