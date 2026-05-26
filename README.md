@@ -187,7 +187,7 @@ class Program {
 </div>
   
 <div align="center">
-  <img src="https://media.tenor.com/lxCfTp7_1ScAAAAd/tenor.gif" alt="Hong Lu from Limbus Company" />
+  <img src="gifhonglu.gif" alt="hong lu, but he's a plushie" />
 </div>
  
   <p align="center">
