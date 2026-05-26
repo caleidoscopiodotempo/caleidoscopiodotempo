@@ -144,7 +144,8 @@ class Program {
 
 #
 
-<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Cybersecurity+%26+Tools" alt="Typing SVG" /></a></div>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Cybersecurity+and+Tools" alt="Typing SVG" /></a></div>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="60" alt="sonarqube logo"  />
@@ -158,13 +159,14 @@ class Program {
 
 #
 
-
-
- <p align="center">
-    <img src="https://img.shields.io/badge/Hardware-ESP32-A9C2A3?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Badge" />
-    <img width="15" />
-    <img src="https://img.shields.io/badge/Learning-MVC-82C8C6?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVC Badge" />
-  </p>
+<div align="center">
+  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Other+Applications" alt="Typing SVG" /></a></div>
+  <img src="https://img.shields.io/badge/Hardware-ESP32-A9C2A3?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Badge" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Learning-MVC-82C8C6?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVC Badge" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Design-Figma-%23333333?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
+</div>
 
   <br>
 
@@ -172,6 +174,10 @@ class Program {
 
   <div id="songs">
   </div>
+
+  <div align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=My Songs" alt="Typing SVG" /></a></div>
+
 
 <div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=My+Songs" alt="Typing SVG" /></a></div>
 
