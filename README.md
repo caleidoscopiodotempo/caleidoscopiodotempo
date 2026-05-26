@@ -1,60 +1,192 @@
-<div align="left">
+<div align="center">
     <img src="https://64.media.tumblr.com/cd1c305b9fc6f428e6f62d24d6e2714f/705b76c11ed800bd-e5/s1280x1920/278f25103176dc944c7454eb2f441062cafc0d62.pnj" alt="starfish divider"//>
 
   <br><br>
   <br>
-      
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=82C8C6&center=true&vCenter=true&width=600&lines=+My+compass+is+curiosity.+)](https://git.io/typing-svg)
+
+<div align="center">
+ <div align="center">
+    <a href="#aboutme"><img src="https://img.shields.io/badge/ABOUT_ME-%23E0FFFF?style=flat&logoColor=black" style="height:27px;"></a>&nbsp;&nbsp;&nbsp;
+    <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-%230D1B2A?style=flat&logoColor=white" style="height:27px;"></a>&nbsp;&nbsp;&nbsp;
+    <a href="#techstack"><img src="https://img.shields.io/badge/TECH_STACK-%23E0FFFF?style=flat&logoColor=black" style="height:27px;"></a>&nbsp;&nbsp;&nbsp;
+    <a href="#songs"><img src="https://img.shields.io/badge/MY_SONGS-%230D1B2A?style=flat&logoColor=white" style="height:27px;"></a>
+</div>
+    
+#
+&nbsp;&nbsp;&nbsp;
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=3px&duration=3500&pause=1000&color=F7F7F7&center=true&random=true&width=500&lines=Full-Stack+Developer;My+Compass+is+curiosity." alt="Typing SVG" /></a>
+</div>
+&nbsp;&nbsp;&nbsp;
+
   
   <br>
+  
+#
 
-  ###  About Me 
+<div id="aboutme">
+<h1 align="center">About Me</h1>
+
 
 Hi there! I'm *Kalei!* 
-  A 20-year-old developer from Brazil 🇧🇷, currently studying at SENAI. I go by any pronouns! 
-  
-  I am a **Software Developer**, passionate about blending code with storytelling to build interactive and aesthetic experiences.
+
+A 20-year-old developer from Brazil 🇧🇷, currently studying at SENAI. I go by any pronouns!   
+
+I’m currently studying Systems Development on SENAI, focusing on full-stack web applications. My go-to stack is C# (.NET / ASP.NET Core) and SQL Server for the backend, paired with JavaScript to bring frontends to life.
+
+I love blending code with storytelling to create beautiful, interactive experiences. Right now, I'm focused on building RESTful APIs, mastering architectures like MVC and DDD, and working with Agile (Scrum/Kanban) methodologies!
+
+
   
   <p align="center">
 <img src="https://c.tenor.com/pAJFvv5U7RoAAAAC/tenor.gif" alt="hong lu from limbus company"/>
 
+<div align="left">
 
-  *   ✿ **Focus:** Gamification for educational projects, designing systems for my tabletop RPGs, and crafting visual experiences with illustration and code.
-    
-  *   ✿ **Languages:** Fluent in English & Portuguese.
-    
-  *   ✿ **Currently:** Building cool things, exploring MVC, and expanding my technical horizons.
+#
 
-  <br>
+```csharp
+using System;
+
+public class kaleioftime {
+    public string Name = "Kalei";
+    public string Focus = "gamification, full-stack development";
+    public string[] Languages = { "portuguese (native)", "english (fluent)" };
+    public string[] Technologies = { "C#", "ASP.NET Core", "SQL Server", "JavaScript" };
+    
+    public bool IsCoding = true;
+
+    public string CurrentActivity() {
+        return IsCoding 
+            ? "building cool things, exploring MVC, and expanding my technical horizons."
+            : "failing a dexterity saving throw / sketching new ideas / working on a new game project!";
+    }
+}
+
+class Program {
+    public static void Main() {
+        kaleioftime dev = new kaleioftime();
+        
+        Console.WriteLine($"hi, I'm {dev.Name}!");
+        Console.WriteLine($"focus: {dev.Focus}");
+        Console.WriteLine($"tech Stack: {string.Join(', ', dev.Technologies)}");
+        Console.WriteLine($"languages: {string.Join(' & ', dev.Languages)}");
+        Console.WriteLine($"currently: {dev.CurrentActivity()}");
+    }
+}
+
+```
+
+# 
+<h1 align="center">My Projects</h1>
+<div id="projects">
+</div>
+<div align="center">
+  <a href="https://github.com/caleidoscopiodotempo/Atividade-MVC">
+    <img src="https://img.shields.io/badge/_Letterboxd_Inspired_Application_-_ASP.NET_Core_MVC-%230D1B2A?style=for-the-badge&logo=dotnet&logoColor=%23E0FFFF" height="40" alt="Letterboxd Project">
+  </a>
+  <br><br>
+
+  <a href="https://github.com/caleidoscopiodotempo/Bibliotec---Book-Reviews">
+    <img src="https://img.shields.io/badge/_Bibliotec_-_Goodreads_Style_Book_Reviews-%230D1B2A?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23E0FFFF" height="40" alt="Goodreads Project">
+  </a>
+  <br><br>
+
+  <a href="https://github.com/caleidoscopiodotempo/RPG-Visual-Novel-Cutscene-">
+    <img src="https://img.shields.io/badge/Canto's Finale_-_20min_RPG_Visual_Novel_Cutscene-%230D1B2A?style=for-the-badge&logo=unity&logoColor=%23E0FFFF" height="40" alt="Visual Novel Project">
+  </a>
+</div>
+&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <a href="https://yourusername.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Check_me_out_on_ITCH.IO!-%23FF5555?style=for-the-badge&logo=itchdotio&logoColor=white" height="40" alt="Itch.io Badge" />
+  </a>
+</div>
+
+# 
+
+<div id="techstack">
+</div>
+
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Front+End" alt="Typing SVG" /></a></div>
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="30" />
+     &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="30" />
+     &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+</div>
+<br>
     
-  ###  My Tech Stack !
+</div>
+<br>
 
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="html5" title="HTML5" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="css3" title="CSS3" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="80" alt="figma" title="Figma" />
-  </p>
+#
 
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="c++" title="C++" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="80" alt="c#" title="C#" />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="80" alt="sql" title="SQL" />
-  </p>
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Back+End" alt="Typing SVG" /></a></div>
 
-  <p align="center">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="30" />
+     &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="30" />
+     &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="60" alt="microsoftsqlserver logo"  />
+</div>
+<br>
+    
+</div>
+<br>
+
+#
+
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Cybersecurity+%26+Tools" alt="Typing SVG" /></a></div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="60" alt="sonarqube logo"  />
+  <img width="30" />
+  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="30" />
+  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+</div>
+
+#
+
+
+
+ <p align="center">
     <img src="https://img.shields.io/badge/Hardware-ESP32-A9C2A3?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Badge" />
     <img width="15" />
     <img src="https://img.shields.io/badge/Learning-MVC-82C8C6?style=for-the-badge&logo=dotnet&logoColor=white" alt="MVC Badge" />
   </p>
 
-  <br><br>
+  <br>
+
+#
+
+  <div id="songs">
+  </div>
+
+<div align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&letterSpacing=4.2px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=500&lines=My+Songs" alt="Typing SVG" /></a></div>
+
+<div align="center">
+    <a href="https://open.spotify.com/user/31flgxbue67cklcnvfc5h73nbohm" target="_blank">
+    <img src="https://img.shields.io/badge/_MY_SOUNDTRACK_-_LISTEN_ON_SPOTIFY-%230D1B2A?style=for-the-badge&logo=spotify&logoColor=%23E0FFFF" height="42" alt="Spotify Profile Mapping" />
+  </a>
+</div>
+  
+  <br>
+
+  
 
   <img src="https://64.media.tumblr.com/cd1c305b9fc6f428e6f62d24d6e2714f/705b76c11ed800bd-e5/s1280x1920/278f25103176dc944c7454eb2f441062cafc0d62.pnj" alt="starfish divider"/>
 
 </div>
+
+
